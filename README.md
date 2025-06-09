@@ -1,6 +1,6 @@
-# Project Title
+# AmtAssist
 
-AmtAssist, a digital assistant for government documents.
+AmtAssist, a digital assistant for government documents. Submitted as part of the optional requirements for completing the final project for the Building AI course offered by Helsinki University.
 
 ## Summary
 
