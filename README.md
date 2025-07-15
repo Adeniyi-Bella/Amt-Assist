@@ -1,10 +1,10 @@
-# AmtAssist: a digital assistant for summarizing government documents.
+# Admina: a digital assistant for summarizing government documents.
 
 Final project for the Building AI course
 
 ## Summary
 
-AmtAssist is a smart document scanner powered by OCR and Natural Language Processing (NLP) that helps users, especially immigrants and expats in Germany, understand official government letters written in German. Can also be extended to other languages.
+Admina is a smart document scanner powered by OCR and Natural Language Processing (NLP) that helps users, especially immigrants and expats in Germany, understand official government letters written in German. Can also be extended to other languages.
 The system translates dense bureaucratic language into the user's native language, extracts deadlines, and summarizes required actions in simple terms.
 
 ## Background
@@ -73,7 +73,7 @@ This would empower users to take appropriate actions without needing a translato
 * Translation accuracy: Automatically translating legal German may lose nuances, especially for languages with fewer resources.
 * Handwritten documents: OCR is less reliable on handwriting or poor scans.
 
-## 🏗️ System Architecture
+## 🏗️ Proposed System Architecture
 
 The platform allows users to upload scanned German letters (e.g. from government offices), and uses OCR + NLP + AI to extract key information and provide natural-language summaries in the user's preferred language.
 
